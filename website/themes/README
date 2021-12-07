@@ -1,0 +1,4 @@
+Voeg onderstaande regel toe aan pelicanconf.py om je nieuwe thema te selecteren: 
+
+THEME = "themes/simple"
+
